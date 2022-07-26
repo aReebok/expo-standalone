@@ -11,6 +11,7 @@ This small demo application allows you to export an Expo app that has expo depen
 1. Now to export the app, run `expo build:android`, select apk.
 1. Once the build is done, you can click on the link and download this apk file for android. 
 
+Follow more instructions in the link in sources to create your own API key/standaloneAndroidClientId on [Google Cloud Console](https://console.cloud.google.com/apis/credentials?project=project-friendship-344505).
 
 ### Source
 
