@@ -18,12 +18,20 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.standalone.app"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.standalone.app",
+      "config": {
+        "googleSignIn" : {
+          "apiKey": "AIzaSyA6BWJVxFwLuxNbJMkYLuG3stlOhWbSkQQ",
+          "certificateHash": "8AA9F1E57AD6C4143BB726C8140480B1ADD880D2"
+        }
       }
     },
     "web": {
