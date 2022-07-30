@@ -16,7 +16,7 @@ Follow more instructions in the link in sources to create your own API key/stand
 ### Built APK files for test on Google Drive
 
 1. Expo Google OAuth exporting test
-    * File: [myoauth-WITHOUTBackendRequest](https://drive.google.com/file/d/1J9mlqBuYh45ffjRoS_A3kjLe5JR_imNc/view?usp=sharing)
+    * File: [myoauth-WITHOUTBackendRequest.apk](https://drive.google.com/file/d/1J9mlqBuYh45ffjRoS_A3kjLe5JR_imNc/view?usp=sharing)
 
 
 1. Expo Google OAuth with PSQL database request test
