@@ -13,6 +13,20 @@ This small demo application allows you to export an Expo app that has expo depen
 
 Follow more instructions in the link in sources to create your own API key/standaloneAndroidClientId on [Google Cloud Console](https://console.cloud.google.com/apis/credentials?project=project-friendship-344505).
 
+### Built APK files for test on Google Drive
+
+1. Expo Google OAuth exporting test
+    * File: [myoauth-WITHOUTBackendRequest](https://drive.google.com/file/d/1J9mlqBuYh45ffjRoS_A3kjLe5JR_imNc/view?usp=sharing)
+
+
+1. Expo Google OAuth with PSQL database request test
+    * This one will send a simple request to check if logged in email is in the `pf-server` (requires a running server with express API).
+    * File: [myoauth-WITHBackendRequest.apk](https://drive.google.com/file/d/1nZ6pbXsZSd5wRlIFwlbdritrz5hAnCC0/view?usp=sharing)
+
+
+1. Expo Barcode scanner standalone test
+    * File: [TestBarcodeScanner.apk](https://drive.google.com/file/d/1tRxw6VVnWsLTZ9T4oUhXw5ZBPdIb16Wd/view?usp=sharing)
+
 ### Source
 
 * [Deploying to a standalone app on Android](https://docs.expo.dev/versions/v43.0.0/sdk/google/#deploying-to-a-standalone-app-on-android).
