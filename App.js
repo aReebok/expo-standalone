@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { useState } from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
 import * as Google from "expo-google-app-auth";
+import { BarCodeScanner } from 'expo-barcode-scanner';
 
 // source: https://aravindkumarvemula.medium.com/google-authentication-using-react-expo-6be317d84084
 
